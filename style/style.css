@@ -1,5 +1,7 @@
 p {text-align: justify;
 	font-family: "Georgia", serif;
+	margin: 0px;
+	padding: 20px;
 }
 
 h1 {text-align: center;
@@ -8,4 +10,9 @@ h1 {text-align: center;
 
 h2 {text-align: center;
 	font-size: 200%;
+}
+
+img {
+	float: right;
+	margin: 0 0 10px 10px;
 }
