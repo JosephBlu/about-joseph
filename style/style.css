@@ -1,4 +1,9 @@
-p {text-align: justify;
+body {
+	background-color: hotpink;
+}
+
+p {font-weight: bold;
+	text-align: justify;
 	font-family: "Georgia", serif;
 	margin: 0px;
 	padding: 20px;
@@ -15,4 +20,5 @@ h2 {text-align: center;
 img {
 	float: right;
 	margin: 0 0 10px 10px;
+	border: 3px solid #73AD21;
 }
