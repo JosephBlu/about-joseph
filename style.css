@@ -1,8 +1,11 @@
-p {background-color: deeppink;
-	color: black;
-	font-family: Georgia;
+p {text-align: justify;
+	font-family: "Georgia", serif;
 }
 
-h1 {alignment: center;
+h1 {text-align: center;
 	font-size: 300%;
+}
+
+h2 {text-align: center;
+	font-size: 200%;
 }
